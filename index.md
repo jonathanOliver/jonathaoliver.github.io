@@ -77,7 +77,7 @@
 
         <div class="section-title">
           <h2>Sobre</h2>
-          <p>Um dos Fundadores da <a href="#">Conceito T.I</a> Soluções em técnologia, Arquiteto de Software motivado, com mais de 10 anos de tecnologia da informação. Reconhecido por realizar trabalhos de automações de processo manuais e operacionais, desenvolvimento de soluções para poupar energia e erros humanos para atender a satisfação do usuário final. Engenhoso e bem organizado, com excelentes competências em metodos ágeis e desenvolvimento de software.</p>
+          <p>Pós graduado em Engenharia de software motivado, com mais de 10 anos de tecnologia da informação. Reconhecido por realizar trabalhos de automações de processo manuais e operacionais, desenvolvimento de soluções para poupar energia e erros humanos para atender a satisfação do usuário final. Engenhoso e bem organizado, com excelentes competências em metodos ágeis e desenvolvimento de software.</p>
         </div>
 
         <div class="row">
@@ -85,11 +85,22 @@
             <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content">
-            <h3>CEO | Engenheiro de Software </h3>
+            <h3>Engenheiro de Software </h3>
             <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              Atualmente desenvolvendo aplicações ECL plataforma HPCC Systems. Plataforma voltada para Big Data , Machine learning e volume de dados gigantescos.
             </p>
+            <!-- badgers -->
+             <div class="row">
+              <div class="col-lg-6">
+                <ul>
+                    <li><i class="bi bi-chevron-right"></i> <strong><a href="https://badgr.com/backpack/badges/618af2e44048b81fdf3ba530" target="_blank">HPCC Systems Introduction to ECL Parts 1 & 2</a></strong></li>
+                    <li><i class="bi bi-chevron-right"></i> <strong><a href="https://badgr.com/backpack/badges/618c7d7f4048b81fdf3bf602" target="_blank"> HPCC Systems Advanced ECL - Parts 1 & 2</a></strong></li>
+                    <li><i class="bi bi-chevron-right"></i> <strong><a href="https://badgr.com/backpack/badges/6199b216cb9e6d1c59adef42" target="_blank">HPCC Systems Applied ECL: ECL Code Generation Tools</a></strong></li>
+                    <li><i class="bi bi-chevron-right"></i> <strong><a href="https://badgr.com/backpack/badges/61a4ef492dc038241ace92fa" target="_blank"> HPCC Systems Roxie ECL - Part 1 & 2</a></strong></li>
+                    <li><i class="bi bi-chevron-right"></i> <strong><a href="https://badgr.com/backpack/badges/61a4ea63cb9e6d1c59b0067a" target="_blank">SALT (Scalable Automated Linking Technology)</a></strong></li>
+                </ul>
+              </div>
+              </div>
             <div class="row">
               <div class="col-lg-6">
                 <ul>
@@ -105,10 +116,6 @@
                 </ul>
               </div>
             </div>
-            <p>
-              Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
-            </p>
           </div>
         </div>
 
@@ -121,7 +128,6 @@
 
         <div class="section-title">
           <h2>Skills</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
         <div class="row skills-content">
