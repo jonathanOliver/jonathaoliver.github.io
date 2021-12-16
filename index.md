@@ -5,12 +5,11 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>MyResume Bootstrap Template - Index</title>
+  <title>My Profile</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -60,7 +59,7 @@
   <section id="hero" class="d-flex flex-column justify-content-center">
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
       <h1>Jonathan Oliveira</h1>
-      <p>Eu sou <span class="typed" data-typed-items="CEO.,Desenvolvedor Web., Engenheiro de Software., DevOps."></span></p>
+      <p>Eu sou <span class="typed" data-typed-items="Analista Big Data.,Desenvolvedor Web., Engenheiro de Software., DevOps."></span></p>
       <div class="social-links">
 
         <a href="https://www.instagram.com/__jonathanoliver/" target="_blanck" class="instagram"><i class="bx bxl-instagram"></i></a>
