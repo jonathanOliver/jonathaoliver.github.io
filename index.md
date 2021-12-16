@@ -47,8 +47,7 @@
         <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
         <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>Sobre</span></a></li>
         <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resumo</span></a></li>
-        <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfólio</span></a></li>
-        <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Serviços</span></a></li>
+       <!-- <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfólio</span></a></li> -->
         <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contato</span></a></li>
       </ul>
     </nav><!-- .nav-menu -->
@@ -274,7 +273,7 @@
       </div>
     </section><!-- End Resume Section -->
 
-    <!-- ======= Portfolio Section ======= -->
+    <!-- ======= Portfolio Section ======= 
     <section id="portfolio" class="portfolio section-bg">
       <div class="container" data-aos="fade-up">
 
@@ -425,7 +424,7 @@
         </div>
 
       </div>
-    </section><!-- End Portfolio Section -->
+    </section> -->
 
 
     <!-- ======= Contact Section ======= -->
