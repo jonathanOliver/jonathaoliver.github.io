@@ -226,15 +226,10 @@
           <div class="col-lg-4">
             <h3 class="resume-title">Experiência Profissional</h3>
             <div class="resume-item">
-              <h4> Conceito T.I Soluções em Técnologia.</h4>
-              <h5>CEO - Chief Executive Officer</h5></br>
+              <h4> QUOD</h4>
+              <h5>Desenvolvedor ECL</h5></br>
               <h5>2021 - Atual</h5>
               <p><em>São Paulo, SP, Brasil </em></p>
-              <ul>
-                <li>Liderar o desenvolvimento e implementação de Software, Infraestrutura e redes</li>
-                <li>Criação e gerenciamento de Roadmap de TI alinhada com as necessidades e expectativas da empresa. </li>
-                <li>Estruturação e implantação de equipes de trabalho baseadas em Metodologias Ágeis.</li>
-              </ul>
             </div>
             <div class="resume-item">
               <h4>Mandic Cloud Solutions</h4>
